@@ -7,11 +7,11 @@
 
 - 🚀 My work GitHub is [ChaseApptentive](https://github.com/ChaseApptentive)
 
-- 🤝 I’m looking for volunteer help with [Animal Help Now](https://github.com/AnimalHelpNow)
-
 - 👨‍💻 All of my current projects are available at [https://github.com/apptentive](https://github.com/apptentive)
 
 - 📝 I regularly write Apptentive focused articles on [learn.apptentive.com](learn.apptentive.com)
+
+- 🤝 I’m looking for volunteer help with [Animal Help Now](https://github.com/AnimalHelpNow)
 
 - 💬 Ask me about **Volunteering at Animal Help Now**
 
