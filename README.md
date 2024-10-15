@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chase!</h1>
 <h3 align="center">📱 Kotlin developer building Android apps and libraries with a user-first mindset.</h3>
 
-- 🔭 I’m currently working on [Apptentive Kit Android](https://github.com/apptentive/apptentive-kit-android)
+- 🔭 I’m currently open for work!
 
 - 🌱 I’m currently learning **how to effectively use natural language processing tools** (AI tools are no longer the future. It's now).
 
-- 🚀 My work GitHub is [ChaseApptentive](https://github.com/ChaseApptentive)
-
 - 👨‍💻 All of my current projects are available at [https://github.com/apptentive](https://github.com/apptentive)
 
-- 📝 I regularly write Apptentive focused articles on [learn.apptentive.com](learn.apptentive.com)
+- 📝 I used to regularly write Apptentive focused articles on [learn.apptentive.com](learn.apptentive.com)
 
 - 🌍 I believe in giving back to the community and often volunteer my coding and team management skills at a non-profit, [Animal Help Now](https://github.com/AnimalHelpNow).
 
