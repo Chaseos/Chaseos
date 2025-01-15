@@ -3,17 +3,13 @@
 
 - 🔭 I’m currently open for work!
 
-- 🌱 I’m currently learning **how to effectively use natural language processing tools** (AI tools are no longer the future. It's now).
+- 🌱 I’m currently building apps for Compose Multiplatform, WearOS, and Chrome Extensions (coming soon)!
 
-- 👨‍💻 All of my current projects are available at [https://github.com/apptentive](https://github.com/apptentive)
-
-- 📝 I used to regularly write Apptentive focused articles on [learn.apptentive.com](learn.apptentive.com)
-
-- 🌍 I believe in giving back to the community and often volunteer my coding and team management skills at a non-profit, [Animal Help Now](https://github.com/AnimalHelpNow).
+- 🌍 I believe in giving back to the community and often volunteer my coding, team lead, and team management skills at a non-profit, [Animal Help Now](https://github.com/AnimalHelpNow).
 
 - 🤝 We are always looking for volunteers. [Here](https://www.volunteermatch.org/search/org768702.jsp) are a few active positions.
 
-- 📖 I ♥️ continuous learning. I block out time every sprint to learn about new things relevant to my work.
+- 📖 I ♥️ continuous learning. I block out time every week to learn about new things relevant to my profession.
 
 - 💬 I enjoy writing documentation, knowing it will help reduce the bus factor and help various members of our team.
 
@@ -23,7 +19,7 @@
 
 - 🤹 I prioritize having a life/work balance. Work to live, not live to work.
 
-- ⚡ Other stuff about me **🌱 Vegan 🗺️ Current World Traveler 🚐 Van Life in my future**
+- ⚡ Other stuff about me **🌱 Vegan 🗺️ World Traveler 🚐 Van Life**
 
 
 <h3 align="left">Connect with me:</h3>
