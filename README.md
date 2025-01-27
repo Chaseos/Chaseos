@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently open for work!
 
-- 🌱 I’m currently building apps for Compose Multiplatform, WearOS, and Chrome Extensions (coming soon)!
+- 🌱 I’m currently building apps for Compose Multiplatform, WearOS, and Chrome Extensions!
+
+- ⏩ I made a Chrome Extension written by AI! Simple Video Speed Controller [Chrome Webstore](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController/settings)
 
 - 🌍 I believe in giving back to the community and often volunteer my coding, team lead, and team management skills at a non-profit, [Animal Help Now](https://github.com/AnimalHelpNow).
 
