@@ -9,7 +9,7 @@
 
 - 🌍 I believe in giving back to the community and often volunteer my coding, team lead, and team management skills at a non-profit, [Animal Help Now](https://github.com/AnimalHelpNow).
 
-- 🤝 We are always looking for volunteers. [Here](https://www.volunteermatch.org/search/org768702.jsp) are a few active positions.
+- 🤝 We are always looking for volunteers. [Here](https://www.volunteermatch.org/search/org768702.jsp) are our active positions.
 
 - 📖 I ♥️ continuous learning. I block out time every week to learn about new things relevant to my profession.
 
