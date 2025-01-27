@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently open for work!
 
-- 🌱 I’m currently building apps for Compose Multiplatform, WearOS, and Chrome Extensions!
+- 🌱 I’m currently building apps for Compose Multiplatform, WearOS, and Chrome Extensions! (🧘 Meditation app coming soon!)
 
 - ⏩ <b>Simple Video Speed Controller</b> - I made a Chrome Extension written by AI! [Chrome Webstore](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en)   [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController/settings)
 
