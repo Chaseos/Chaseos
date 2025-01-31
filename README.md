@@ -7,9 +7,11 @@
 
 - ⏩ <b>Simple Video Speed Controller</b> - I made a Chrome Extension written by AI! [Chrome Webstore](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en)   [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController/settings)
 
-- 🌍 I believe in giving back to the community and often volunteer my coding, team lead, and team management skills at a non-profit, [Animal Help Now](https://github.com/AnimalHelpNow).
+- 🌍 I believe in giving back to the community and often volunteer my coding, team lead, and team management skills at a non-profit, [Animal Help Now](https://ahnow.org/) and [Pet Help and Rescue](https://www.phar.org/). Check out our apps [Android](https://play.google.com/store/apps/dev?id=6630436480644093730) [iOS](https://apps.apple.com/us/developer/animal-watch/id511153460)
 
 - 🤝 We are always looking for volunteers. [Here](https://www.volunteermatch.org/search/org768702.jsp) are our active positions.
+
+- 🤖 I have worked on various projects including Robert Half, Southwest Airlines, Animal Supply Co, Frontier Communications, Allegiant Airlines, and the Apptentive / Alchemer mobile SDKs.
 
 - 📖 I ♥️ continuous learning. I block out time every week to learn about new things relevant to my profession.
 
