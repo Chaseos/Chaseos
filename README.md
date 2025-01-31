@@ -21,7 +21,7 @@
 
 - 🗣️ I'm a team advocate, speaking out when I feel something is off or could be better.
 
-- 🤹 I prioritize having a life/work balance. Work to live, not live to work. (!4️⃣ day work week 🗓️!)
+- 🤹 I prioritize having a life/work balance. Work to live, not live to work. (!4️⃣ day work week advocate 🗓️!)
 
 - ⚡ Other stuff about me **🌱 Vegan 🗺️ World Traveler 🚐 Van Life**
 
