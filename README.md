@@ -12,21 +12,15 @@
 
 - ⏩ **Simple Video Speed Controller**  
   Lightweight Chrome & Firefox extension exploring AI-assisted development for rapid iteration and testing.  
-  [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) •  
-  [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) •  
-  [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
+  [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
 - 🎬 **YouTube UI Cleaner**  
   Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience.  
-  [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) •  
-  [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/)
-  [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner)
+  [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/) • [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner)
 
 - 📺 **Paramount+ Quality+**  
   Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  
-  [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) •  
-  [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/)
-  [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
+  [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/) • [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
 
 ---
 
@@ -36,8 +30,7 @@
   **Animal Help Now** and **Pet Help & Rescue**.
 
   Check out the apps:  
-  [Android](https://play.google.com/store/apps/dev?id=6630436480644093730) •  
-  [iOS](https://apps.apple.com/us/developer/animal-watch/id511153460)
+  [Android](https://play.google.com/store/apps/dev?id=6630436480644093730) • [iOS](https://apps.apple.com/us/developer/animal-watch/id511153460)
 
 ---
 
