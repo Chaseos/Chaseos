@@ -11,7 +11,7 @@
 ### 🚀 Browser Extensions
 
 - ⏩ **Simple Video Speed Controller**  
-  Lightweight Chrome & Firefox extension exploring AI-assisted development for rapid iteration and testing.  
+  Speed up or slow down any video stream.  
   [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
 - 🎬 **YouTube UI Cleaner**  
