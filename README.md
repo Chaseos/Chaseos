@@ -1,33 +1,86 @@
 <h1 align="center">Hi 👋, I'm Chase!</h1>
-<h3 align="center">📱 Kotlin developer building Android apps and libraries with a user-first mindset.</h3>
+<h3 align="center">📱 Kotlin developer building Android apps, libraries, and browser extensions with a user-first mindset.</h3>
 
-- 🔭 I’m currently open for work!
+- 🔭 **Open for work** — Senior Android / Kotlin / Mobile Engineer
 
-- 🌱 I’m currently building apps for Compose Multiplatform, WearOS, and Chrome Extensions! (🧘 Meditation app coming soon!)
+- 🌱 Currently building with **Compose Multiplatform**, **WearOS**, and **Chrome & Firefox Extensions**  
+  🧘 Meditation app coming soon!
 
-- ⏩ <b>Simple Video Speed Controller</b> - Chrome & Firefox extension exploring AI-assisted development. [Chrome Webstore](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) [Mozilla Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
+---
 
-- 🌍 I believe in giving back to the community and often volunteer my coding, team lead, and team management skills at a non-profit, [Animal Help Now](https://ahnow.org/) and [Pet Help and Rescue](https://www.phar.org/). Check out our apps [Android](https://play.google.com/store/apps/dev?id=6630436480644093730) [iOS](https://apps.apple.com/us/developer/animal-watch/id511153460)
+### 🚀 Browser Extensions
 
-- 🤖 I have worked on various well-known projects including Robert Half, Southwest Airlines, Animal Supply Co, Frontier Communications, Allegiant Airlines, and the Apptentive / Alchemer mobile SDKs.
+- ⏩ **Simple Video Speed Controller**  
+  Lightweight Chrome & Firefox extension exploring AI-assisted development for rapid iteration and testing.  
+  [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) •  
+  [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) •  
+  [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
-- 📖 I ♥️ continuous learning. I block out time every week to learn about new things relevant to my profession.
+- 🎬 **YouTube UI Cleaner**  
+  Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience.  
+  [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) •  
+  [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/)
+  [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner)
 
-- 💬 I really enjoy writing documentation, knowing it will help reduce the bus factor and help various members of our team and help the customer with faster integration.
+- 📺 **Paramount+ Quality+**  
+  Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  
+  [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) •  
+  [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/)
+  [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
 
-- 🔍 I strive for quality in my work, without making perfect the enemy of good.
+---
 
-- 🗣️ I'm a team advocate, speaking out when I feel something is off or could be better.
+### 🌍 Community & Open Source
 
-- 🤹 I prioritize having a life/work balance. Work to live, not live to work. (!4️⃣ day work week advocate 🗓️!)
+- I believe in giving back and regularly volunteer my **coding, team leadership, and project management** skills with  
+  **Animal Help Now** and **Pet Help & Rescue**.
 
-- ⚡ Other stuff about me **🌱 Vegan 🗺️ World Traveler 🚐 Van Life**
+  Check out the apps:  
+  [Android](https://play.google.com/store/apps/dev?id=6630436480644093730) •  
+  [iOS](https://apps.apple.com/us/developer/animal-watch/id511153460)
 
+---
+
+### 🤖 Professional Experience
+
+- Contributed to and worked on projects for:  
+  **Robert Half, Southwest Airlines, Animal Supply Co, Frontier Communications, Allegiant Airlines**, and the  
+  **Apptentive / Alchemer Mobile SDKs**
+
+---
+
+### 📖 How I Work
+
+- ❤️ Continuous learning — I block time every week to explore new tools and ideas  
+- ✍️ Strong believer in clear documentation to reduce bus factor and improve developer experience  
+- 🔍 Quality-focused, without making *perfect* the enemy of *good*  
+- 🗣️ Team advocate — I speak up when something can be improved  
+- 🤹 Work/life balance matters — *work to live, not live to work*  
+  (📆 **4-day work week advocate**)
+
+---
+
+### ⚡ Other Stuff About Me
+**🌱 Vegan • 🗺️ World Traveler • 🚐 Van Life**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chaseolson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaseolson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaseolson" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="Kotlin" width="40" height="40"/>
+</a>
+</p>
