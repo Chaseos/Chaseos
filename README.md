@@ -11,8 +11,8 @@
 ### 🚀 Browser Extensions
 
 - ⏩ **Simple Video Speed Controller**  
-  Speed up or slow down any video stream.  4.2k+ downloads
-  - [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [Opera addons](https://addons.opera.com/en/extensions/details/simple-video-speed-controller/) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
+  Speed up or slow down any video stream.  4.3k+ downloads
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [Opera addons](https://addons.opera.com/en/extensions/details/simple-video-speed-controller/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-video-speed-contro/mnmagmdfgdjhbfkdnonnhkfnbnjpehja) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
 - 📺 **Paramount+ Quality+**  
   Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  2.7k+ downloads
