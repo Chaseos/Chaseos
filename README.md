@@ -16,7 +16,7 @@
 
 - 📺 **Paramount+ Quality+**  
   Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  2.8k+ downloads
-  - [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/) • [Opera addons](https://addons.opera.com/en/extensions/details/paramount-quality/) • [Edge](https://microsoftedge.microsoft.com/addons/detail/paramount-quality/cpaekgjghoegidknadojliokbcldohjb) • [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/) • [Opera addons](https://addons.opera.com/en/extensions/details/paramount-quality/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/paramount-quality/cpaekgjghoegidknadojliokbcldohjb) • [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
 
 - 🎬 **YouTube UI Cleaner**  
   Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience. 2.4k+ downloads
