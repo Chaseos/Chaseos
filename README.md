@@ -3,7 +3,7 @@
 
 - 🔭 **Open for work** — Senior Android / Kotlin / Mobile Engineer
 
-- 🌱 Currently building with **Compose Multiplatform**, **WearOS**, and **Chrome, Firefox, & Opera Extensions**  
+- 🌱 Currently building with **Compose Multiplatform**, **WearOS**, and **Chrome, Firefox, Opera, & Edge Extensions**  
   🧘 Meditation app coming soon!
 
 ---
