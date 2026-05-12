@@ -20,7 +20,7 @@
 
 - 🎬 **YouTube UI Cleaner**  
   Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience. 2.4k+ downloads
-  - [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/) • [Opera addons](https://addons.opera.com/en/extensions/details/youtube-ui-cleaner/) • [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner) 
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/) • [Opera addons](https://addons.opera.com/en/extensions/details/youtube-ui-cleaner/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/youtube-ui-cleaner/dmfgeiiikimggajkkdefmngleooclhci) • [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner) 
 
 ---
 
