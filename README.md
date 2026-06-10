@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chase!</h1>
 <h3 align="center">📱 Kotlin developer building Android apps, libraries, and browser extensions with a user-first mindset.</h3>
 
-- 🔭 **Open for work** — Senior Android / Kotlin / Mobile Engineer
-
-- 🌱 Currently building with **Compose Multiplatform**, **WearOS**, and **Chrome, Firefox, Opera, & Edge Extensions**  
-  🧘 Meditation app coming soon!
-
 ---
 
-### 🚀 Browser Extensions
+## 🚀 Browser Extensions
 
 - ⏩ **Simple Video Speed Controller**  
   Speed up or slow down any video stream.  4.3k+ downloads
@@ -24,17 +19,31 @@
 
 ---
 
-### 🌍 Community & Open Source
+## 🌍 Volunteer Work
 
-- I believe in giving back and regularly volunteer my **coding, team leadership, and project management** skills with  
-  **Animal Help Now** and **Pet Help & Rescue**.
+### Rebuilding Animal Help Now
 
-  Check out the apps:  
-  [Android](https://play.google.com/store/apps/dev?id=6630436480644093730) • [iOS](https://apps.apple.com/us/developer/animal-watch/id511153460)
+One of my biggest recent projects was the complete rewrite and redesign of the [Animal Help Now](https://ahnow.org/) app. The original apps were legacy native codebases, and I rebuilt the experience from scratch as a modern Kotlin Multiplatform application.
+
+I owned the entire process: product direction, UX research, visual design, architecture, implementation, testing, and release. The result is a cleaner, faster, more maintainable app built around a high-stakes use case: helping people find the right animal emergency resources as quickly as possible.
+
+The redesigned app launched in June 2026.
+
+[App Store](https://apps.apple.com/us/app/animal-help-now/id511153457) · [Google Play](https://play.google.com/store/apps/details?id=org.ahnow)
+
+### Pet Help and Rescue
+
+I also served as the lead Android developer for [Pet Help and Rescue](https://www.phar.org/), another Animal Help Now app focused on “a friends and neighbors approach to keeping pets safe and evacuating them when disasters strike.”
+
+My work covered the Android app from architecture through release. I designed the app architecture, led implementation, managed and supported multiple other developers, handled QA, wrote documentation and tickets, attended weekly planning meetings as the Android representative, and helped carry the project through launch. It was a more collaborative project than the Animal Help Now rewrite, but I owned the Android technical direction and made sure the app stayed reliable, maintainable, and ready for real disaster-response use cases.
+
+PHaR was released in July 2025
+
+[App Store](https://apps.apple.com/us/app/pet-help-rescue/id6473859586) · [Google Play](https://play.google.com/store/apps/details?id=org.ahnow.phar)
 
 ---
 
-### 🤖 Professional Experience
+## 🤖 Professional Experience
 
 - Contributed to and worked on projects for:  
   **Robert Half, Southwest Airlines, Animal Supply Co, Frontier Communications, Allegiant Airlines**, and the  
@@ -42,7 +51,7 @@
 
 ---
 
-### 📖 How I Work
+## 📖 How I Work
 
 - ❤️ Continuous learning — I block time every week to explore new tools and ideas  
 - ✍️ Strong believer in clear documentation to reduce bus factor and improve developer experience  
@@ -53,7 +62,7 @@
 
 ---
 
-### ⚡ Other Stuff About Me
+## ⚡ Other Stuff About Me
 **🌱 Vegan • 🗺️ World Traveler • 🚐 Van Life**
 
 ---
