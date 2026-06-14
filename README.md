@@ -5,13 +5,13 @@
 
 ## 🚀 Browser Extensions
 
-- ⏩ **Simple Video Speed Controller**  
-  Speed up or slow down any video stream.  5.8k+ downloads
-  - [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [Opera addons](https://addons.opera.com/en/extensions/details/simple-video-speed-controller/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-video-speed-contro/mnmagmdfgdjhbfkdnonnhkfnbnjpehja) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
-
 - 📺 **Paramount Quality+**  
-  Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  4.2k+ downloads
+  Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  6.3k+ downloads
   - [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/) • [Opera addons](https://addons.opera.com/en/extensions/details/paramount-quality/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/paramount-quality/cpaekgjghoegidknadojliokbcldohjb) • [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
+
+- ⏩ **Simple Video Speed Controller**  
+  Speed up or slow down any video stream.  5.9k+ downloads
+  - [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [Opera addons](https://addons.opera.com/en/extensions/details/simple-video-speed-controller/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-video-speed-contro/mnmagmdfgdjhbfkdnonnhkfnbnjpehja) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
 - 🎬 **YouTube UI Cleaner**  
   Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience. 3k+ downloads
@@ -23,23 +23,23 @@
 
 ### Rebuilding Animal Help Now
 
-One of my biggest recent projects was the complete rewrite and redesign of the [Animal Help Now](https://ahnow.org/) app. The original apps were legacy native codebases, and I rebuilt the experience from scratch as a modern Kotlin Multiplatform application.
+- One of my biggest recent projects was the complete rewrite and redesign of the [Animal Help Now](https://ahnow.org/) app. The original apps were legacy native codebases, and I rebuilt the experience from scratch as a modern Kotlin Multiplatform application.
 
-I owned the entire process: product direction, UX research, visual design, architecture, implementation, testing, and release. The result is a cleaner, faster, more maintainable app built around a high-stakes use case: helping people find the right animal emergency resources as quickly as possible.
+- I owned the entire process: product direction, UX research, visual design, architecture, implementation, testing, and release. The result is a cleaner, faster, more maintainable app built around a high-stakes use case: helping people find the right animal emergency resources as quickly as possible.
 
-The redesigned app launched in June 2026.
+- The redesigned app launched in June 2026.
 
-[App Store](https://apps.apple.com/us/app/animal-help-now/id511153457) · [Google Play](https://play.google.com/store/apps/details?id=org.ahnow)
+- [App Store](https://apps.apple.com/us/app/animal-help-now/id511153457) · [Google Play](https://play.google.com/store/apps/details?id=org.ahnow)
 
 ### Pet Help and Rescue
 
-I also served as the lead Android developer for [Pet Help and Rescue](https://www.phar.org/), another Animal Help Now app focused on “a friends and neighbors approach to keeping pets safe and evacuating them when disasters strike.”
+- I also served as the lead Android developer for [Pet Help and Rescue](https://www.phar.org/), another Animal Help Now app focused on “a friends and neighbors approach to keeping pets safe and evacuating them when disasters strike.”
 
-My work covered the Android app from architecture through release. I designed the app architecture, led implementation, managed and supported multiple other developers, handled QA, wrote documentation and tickets, attended weekly planning meetings as the Android representative, and helped carry the project through launch. It was a more collaborative project than the Animal Help Now rewrite, but I owned the Android technical direction and made sure the app stayed reliable, maintainable, and ready for real disaster-response use cases.
+- My work covered the Android app from architecture through release. I designed the app architecture, led implementation, managed and supported multiple other developers, handled QA, wrote documentation and tickets, attended weekly planning meetings as the Android representative, and helped carry the project through launch. It was a more collaborative project than the Animal Help Now rewrite, but I owned the Android technical direction and made sure the app stayed reliable, maintainable, and ready for real disaster-response use cases.
 
-PHaR was released in July 2025
+- PHaR was released in July 2025
 
-[App Store](https://apps.apple.com/us/app/pet-help-rescue/id6473859586) · [Google Play](https://play.google.com/store/apps/details?id=org.ahnow.phar)
+- [App Store](https://apps.apple.com/us/app/pet-help-rescue/id6473859586) · [Google Play](https://play.google.com/store/apps/details?id=org.ahnow.phar)
 
 ---
 
