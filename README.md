@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chase!</h1>
 <h3 align="center">📱 Kotlin developer building Android apps, libraries, and browser extensions with a user-first mindset.</h3>
 
+<p align="center">
+<a href="https://ko-fi.com/chaseos" target="_blank">
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+</p>
+
 ---
 
 ## 🚀 Browser Extensions
