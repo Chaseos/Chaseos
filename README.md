@@ -29,7 +29,7 @@
 
 ### Rebuilding Animal Help Now
 
-- One of my biggest recent projects was the complete rewrite and redesign of the [Animal Help Now](https://ahnow.org/) app. The original apps were legacy native codebases, and I rebuilt the experience from scratch as a modern Kotlin Multiplatform application.
+- One of my biggest recent projects was the complete rewrite and redesign of the Animal Help Now app. The original apps were legacy native codebases, and I rebuilt the experience from scratch as a modern Kotlin Multiplatform application.
 
 - I owned the entire process: product direction, UX research, visual design, architecture, implementation, testing, and release. The result is a cleaner, faster, more maintainable app built around a high-stakes use case: helping people find the right animal emergency resources as quickly as possible.
 
