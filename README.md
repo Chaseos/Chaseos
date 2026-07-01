@@ -12,15 +12,15 @@
 ## 🚀 Browser Extensions
 
 - 📺 **Paramount Quality+**  
-  Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  10k+ downloads
+  Gives users explicit control over video resolution for both **on-demand VODs and live streams** on Paramount+.  20k+ users
   - [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/) • [Opera addons](https://addons.opera.com/en/extensions/details/paramount-quality/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/paramount-quality/cpaekgjghoegidknadojliokbcldohjb) • [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
 
 - ⏩ **Simple Video Speed Controller**  
-  Speed up or slow down any video stream.  6k+ downloads
+  Speed up or slow down any video stream.  10k+ users
   - [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked?authuser=0&hl=en) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [Opera addons](https://addons.opera.com/en/extensions/details/simple-video-speed-controller/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-video-speed-contro/mnmagmdfgdjhbfkdnonnhkfnbnjpehja) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
 - 🎬 **YouTube UI Cleaner**  
-  Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience. 3k+ downloads
+  Removes visual clutter from YouTube to create a more focused, distraction-free viewing experience. 3k+ users
   - [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/) • [Opera addons](https://addons.opera.com/en/extensions/details/youtube-ui-cleaner/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/youtube-ui-cleaner/dmfgeiiikimggajkkdefmngleooclhci) • [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner) 
 
 ---
