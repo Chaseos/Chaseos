@@ -2,7 +2,7 @@
 <h3 align="center">📱 Kotlin developer and independent product builder creating thoughtful mobile apps and practical browser extensions.</h3>
 
 <p align="center">
-<a href="https://chaseos.app">🌐 Explore my portfolio</a>
+<a href="https://chaseos.app">🌐 Explore my work</a>
 </p>
 
 <p align="center">
