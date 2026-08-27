@@ -30,7 +30,7 @@
 - 🌙 **Bluetooth Sleep Timer**  
   A quiet Android utility for falling asleep to Bluetooth audio. Fade the volume, pause playback, and disconnect automatically.
   
-  - [Learn more](https://chaseos.app/#sleep-timer)
+  - [Google Play](https://play.google.com/store/apps/details?id=app.chaseos.bluetoothsleeptimer) • [Learn more](https://chaseos.app/#sleep-timer)
 
 ---
 
