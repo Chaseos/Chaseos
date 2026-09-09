@@ -45,7 +45,7 @@ Together, these three open-source extensions help more than **33k users** take b
   
   - [Chrome Web Store](https://chromewebstore.google.com/detail/simple-video-speed-contro/kcjfpmjkbkhgojilpihplkedadndnked) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/simple-video-speed-controller/) • [Opera Add-ons](https://addons.opera.com/en/extensions/details/simple-video-speed-controller/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/simple-video-speed-contro/mnmagmdfgdjhbfkdnonnhkfnbnjpehja) • [Whale Store](https://store.whale.naver.com/detail/fkcbnblnjclbfnkkhnmoaelklgfiigbc) • [GitHub](https://github.com/Chaseos/SimpleVideoSpeedController)
 
-- 🎬 **YouTube UI Cleaner** — *3k+ users*  
+- 🎬 **YouTube UI Cleaner** — *5k+ users*  
   Removes visual clutter from YouTube with granular controls for Shorts, grouped videos, live content, promotions, feed extras, and custom keyword filters.
   
   - [Chrome Web Store](https://chromewebstore.google.com/detail/youtube-ui-cleaner/blnbifjnjgpgfigcpkhcfkiiepokhkdf) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-ui-cleaner/) • [Opera Add-ons](https://addons.opera.com/en/extensions/details/youtube-ui-cleaner/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/youtube-ui-cleaner/dmfgeiiikimggajkkdefmngleooclhci) • [Whale Store](https://store.whale.naver.com/detail/nkiaddacajkdagoaajbjdlfglidkedlk) • [GitHub](https://github.com/Chaseos/YouTube-UI-Cleaner)
