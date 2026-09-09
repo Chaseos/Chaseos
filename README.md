@@ -15,10 +15,8 @@
 
 ## 🛠️ Independent Apps
 
-- 🔎 **[Adipity](https://adipity.com/)** — *In development*  
-  AI-powered shopping clarity. Scan a product to understand its ingredients, brand context, ownership, confidence, and how the available information fits your values.
-  
-  I’m responsible for the product direction, UX and visual design, and engineering.
+- 🎁 **[Gift Guide](https://giftguide.app/)** — *Coming soon*<br>
+  A personal guide to more thoughtful gifts. Share your interests, tastes, and the little details that help someone discover a gift you’d love.
 
 - 🧘 **[Minimal Meditation](https://play.google.com/store/apps/details?id=app.chaseos.minimalmeditation&hl=en_US)**<br>
   Meditation and breathwork that stay simple while giving you control over duration, intervals, sounds, frequencies, saved practices, progress, and more.
@@ -27,6 +25,9 @@
 
 - 🌙 **[Bluetooth Sleep Timer](https://play.google.com/store/apps/details?id=app.chaseos.bluetoothsleeptimer)**<br>
   A quiet Android utility for falling asleep to Bluetooth audio. Fade the volume, pause playback, and disconnect automatically.
+
+- 🔎 **[Adipity](https://adipity.com/)** — *In development*<br>
+  AI-powered shopping clarity. Scan a product to understand its ingredients, brand context, ownership, confidence, and how the available information fits your values.
 
 ---
 
