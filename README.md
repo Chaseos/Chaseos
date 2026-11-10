@@ -15,8 +15,11 @@
 
 ## 🛠️ Independent Apps
 
-- 🎁 **[Gift Guide](https://giftguide.app/)** — *Coming soon*<br>
-  A personal guide to more thoughtful gifts. Share your interests, tastes, and the little details that help someone discover a gift you’d love.
+- 🎁 **[Gift Guide](https://giftguide.app/)** — *Now available*<br>
+  [App Store](https://apps.apple.com/us/app/gift-guide-skip-the-wishlist/id6809613268) • [Google Play](https://play.google.com/store/apps/details?id=app.chaseos.giftguide)<br>
+  A personal guide to more thoughtful gifts. Share your interests, what you’d enjoy, and what to skip, so family and friends can choose a gift that feels like you. When you’re the one giving, keep private notes, gift ideas, and occasions for the people you shop for.
+
+  Available on **iPhone, iPad, and Android**.
 
 - 🧘 **Minimal Meditation & Breathing**<br>
   [Google Play](https://play.google.com/store/apps/details?id=app.chaseos.minimalmeditation&hl=en_US) • [App Store](https://apps.apple.com/us/app/minimal-meditation-breathing/id6806382803)<br>
