@@ -37,9 +37,9 @@
 
 ## 🚀 Browser Extensions
 
-Together, these three open-source extensions help more than **33k users** take back control of their browsing experience.
+Together, these three open-source extensions help more than **45k users** take back control of their browsing experience.
 
-- 📺 **Paramount Quality+** — *20k+ users*  
+- 📺 **Paramount Quality+** — *30k+ users*  
   Gives users explicit control over video resolution, bitrate, available representations, and maximum quality for both on-demand videos and live streams on Paramount+.
   
   - [Chrome Web Store](https://chromewebstore.google.com/detail/paramount-quality+/jdhjjddhdmhphkfgcfclekdngihnoann) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/paramount-quality/) • [Opera Add-ons](https://addons.opera.com/en/extensions/details/paramount-quality/) • [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/paramount-quality/cpaekgjghoegidknadojliokbcldohjb) • [Whale Store](https://store.whale.naver.com/detail/lgkdongnlhpcjjopojpoabfkhcoenolg) • [App Store](https://apps.apple.com/us/app/paramount-quality/id6806901993) • [GitHub](https://github.com/Chaseos/ParamountQualityPlus)
