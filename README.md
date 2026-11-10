@@ -25,7 +25,7 @@
   [Google Play](https://play.google.com/store/apps/details?id=app.chaseos.minimalmeditation&hl=en_US) • [App Store](https://apps.apple.com/us/app/minimal-meditation-breathing/id6806382803)<br>
   Meditation and breathwork that stay simple while giving you control over duration, intervals, sounds, frequencies, saved practices, progress, and more.
   
-  Available on **Android, Wear OS, and the App Store**.
+  Available on **iPhone, iPad, Mac, Android, Googlebook, and Wear OS**, including foldables like iPhone Duo.
 
 - 🌙 **[Bluetooth Sleep Timer](https://play.google.com/store/apps/details?id=app.chaseos.bluetoothsleeptimer)**<br>
   A quiet Android utility for falling asleep to Bluetooth audio. Fade the volume, pause playback, and disconnect automatically.
