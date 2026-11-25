@@ -25,7 +25,7 @@
   [Google Play](https://play.google.com/store/apps/details?id=app.chaseos.minimalmeditation&hl=en_US) • [App Store](https://apps.apple.com/us/app/minimal-meditation-breathing/id6806382803)<br>
   Meditation and breathwork that stay simple while giving you control over duration, intervals, sounds, frequencies, saved practices, progress, and more.
   
-  Available on **iPhone, iPad, Mac, Android, Googlebook, and Wear OS**, including foldables like iPhone Duo.
+  Available on **iPhone, iPad, Mac, Apple Watch, Android, Googlebook, and Wear OS**, including foldables like iPhone Duo.
 
 - 🌙 **[Bluetooth Sleep Timer](https://play.google.com/store/apps/details?id=app.chaseos.bluetoothsleeptimer)**<br>
   A quiet Android utility for falling asleep to Bluetooth audio. Fade the volume, pause playback, and disconnect automatically.
@@ -116,7 +116,7 @@ PHaR was released in July 2025.
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p>
-Kotlin • Kotlin Multiplatform • Jetpack Compose • Compose Multiplatform • Android • Wear OS • Firebase • TypeScript • React • Next.js • Browser Extensions
+Kotlin • Kotlin Multiplatform • Jetpack Compose • Compose Multiplatform • Swift • SwiftUI • Android • Wear OS • watchOS • Firebase • TypeScript • React • Next.js • Browser Extensions
 </p>
 
 <p align="center">
